@@ -108,7 +108,8 @@ Analysis involved exploring the data and visualisations to answer key questions
 - The visualisation clarified the challenges with antenna alignment and the impact of inconsistent flight paths on signal strength.
 - Stakeholders agreed on the need for hardware and operational changes to improve telemetry reliability.
 
-![Linkedin copy](https://github.com/user-attachments/assets/8dc025cf-1bf1-4ec4-b2c2-de7d44c4cb9d)
+![1725714781196](https://github.com/user-attachments/assets/06717ca5-5e6c-444f-9839-b14c349e730e)
+
 
 
 ---
