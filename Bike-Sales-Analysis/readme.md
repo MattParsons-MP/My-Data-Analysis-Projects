@@ -134,4 +134,5 @@ Analysis involved exploring the data and visualisations to answer key questions
 - Marketing strategies to attract more of these customers would likely be an effective way of increasing sales
 - Furthermore attracting higher education levels amongst Middle-aged individuals would be a sensible target for marketing campaigns
 
-![Screenshot 2024-12-12 104220](https://github.com/user-attachments/assets/5b5a43ec-c9c3-43ac-b5d1-9ee920ec2609)
+![Screenshot 2024-12-12 104220](https://github.com/user-attachments/assets/dd51299e-7369-4e6f-9517-740ad160052f)
+
